@@ -35,7 +35,8 @@ Methodology
 ---
 
  Results
-- Significant improvement in recall for candidates likely to retract offers
+- Significant improvement in recall for candidates likely to retract offers from 30% retraction rate, reduced it to 15%
+
 - AUC and ROC curve analysis helped identify better decision thresholds
 - Model aligned more closely with business priorities: avoiding last-minute retractions
 
